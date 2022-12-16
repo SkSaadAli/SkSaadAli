@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/shaikhsaadali" target="blank"><img align="center" src="https://raw.github.com/SkSaadAli/SkSaadAli/main/kaggle.svg?sanitize=true" alt="shaikhsaadali" height="30" width="40" /></a>
+<a href="https://kaggle.com/shaikhsaadali" target="blank"><img align="center" src="https://raw.github.com/SkSaadAli/SkSaadAli/main/logos/social/kaggle.svg?sanitize=true" alt="shaikhsaadali" height="30" width="40" /></a>
 <a href="https://instagram.com/saady.aly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saady.aly" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sk_saad_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sk_saad_ali" height="30" width="40" /></a>
 </p>
