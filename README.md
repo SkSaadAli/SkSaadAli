@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/11XD_WGXLWtPbz3bauui-KkjtwAbyk6Pr/view?usp=sharing](https://drive.google.com/file/d/11XD_WGXLWtPbz3bauui-KkjtwAbyk6Pr/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/shaikhsaadali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shaikhsaadali" height="30" width="40" /></a>
@@ -26,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sksaadali&show_icons=true&locale=en&layout=compact" alt="sksaadali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sksaadali&" alt="sksaadali" /></p>
-
