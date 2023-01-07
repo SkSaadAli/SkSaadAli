@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋</h1>
-<h3 align="center">I am Shiakh Saad Alli. A passionate Software developer from India. I'm currently pursuing B.Tech in Computer Science and Engineering at Jamia Hamdard. Feel free to connect with me here:👇</h3>
+<h3 align="center">I am Shiakh Saad Ali. A passionate Software developer from India. I'm currently pursuing B.Tech in Computer Science and Engineering at Jamia Hamdard. Feel free to connect with me here:👇</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Python%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#9457EB Center=true&size=22"></a>
