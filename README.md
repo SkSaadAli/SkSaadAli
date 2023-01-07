@@ -5,10 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Python%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#9457EB Center=true&size=22"></a>
 </p>
 
-
+<p align ="centre">
 <a href="https://leetcode.com/Sk_Saad_Ali/" target="blank"><img align="" src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSk_Saad_Ali&logo=leetcode&logoColor=yellow" alt="leetcode_Saad" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saady.aly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-saad-ali-23b59024a) <a href="mailto:sk.saad3621@gmail.com"><img align="" src="https://img.shields.io/badge/-Sk.Saad3621@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white" alt="wilson_email"/></a>
-
+<p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SkSaadAli&label=Profile%20views&color=0e75b6&style=plastic" alt="SkSaadAli" />
 
