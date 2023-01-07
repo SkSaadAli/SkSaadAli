@@ -6,6 +6,7 @@
 </p>
 
 <p align ="centre">
+  
 <a href="https://leetcode.com/Sk_Saad_Ali/" target="blank"><img align="" src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSk_Saad_Ali&logo=leetcode&logoColor=yellow" alt="leetcode_Saad" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saady.aly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-saad-ali-23b59024a) <a href="mailto:sk.saad3621@gmail.com"><img align="" src="https://img.shields.io/badge/-Sk.Saad3621@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white" alt="wilson_email"/></a>
 <p>
