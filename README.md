@@ -29,7 +29,7 @@
 
 - 📫 How to reach me Ping me on [LinkedIn](https://www.linkedin.com/in/shaikh-saad-ali-23b59024a/)
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1ShZ-tbwD7_2p5CUD4Le80t6JgAAvsI0T/view)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/11XD_WGXLWtPbz3bauui-KkjtwAbyk6Pr/view?usp=sharing)
 
 
 
